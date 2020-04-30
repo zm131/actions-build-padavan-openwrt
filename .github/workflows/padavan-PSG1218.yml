@@ -10,7 +10,7 @@ on:
     branches:
       - dev-19.07
     paths:
-      - '.config'
+      - 'padavan/*'
 # schedule:
   #    - cron: 0 22 * * *
   watch:
